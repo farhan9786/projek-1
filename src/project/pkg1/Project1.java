@@ -21,7 +21,7 @@ public class MarkahKeseluruhan {
         int purata;
         double peratus;
         
-    System.out.println("Markah bagi setiap matapelajaran; ");
+    System.out.println("Markah bagi setiap matapelajaran ialah; ");
     
     System.out.println("Fundamental of Programming :"+a+"              Computer Organization and Architecture :"+b);
   
